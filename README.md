@@ -1,5 +1,4 @@
 
------------------
 ###  PAN2018-AP-Train
 This repository contains the code to train the gender classifier for the PAN 2018 AP task.
 
